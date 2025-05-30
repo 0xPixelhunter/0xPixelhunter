@@ -1,5 +1,5 @@
 # 👾 PXL.SEC
-Web Development & Cybersecurity Enthusiast  <br><br>🎓 Student | Full-stack beginner  <br>🔐 Focused on building secure systems & solving real-world problems  <br>🛠 Languages: JavaScript (main), Python (some)  <br>🌐 Interests: Web Development, Cybersecurity, Problem Solving  <br>📦 Notable Project: OASIS@DSE<br><br>🚀 Currently Exploring<br>- Penetration testing basics<br>- Frontend/backend integration<br>- Secure coding practices<br><br> “Try things. Break them. Learn faster.”  <br> — 0xPixelhunter
+Web Development & Cybersecurity Enthusiast  <br><br>🎓 Student | Full-stack beginner  <br>🔐 Focused on building secure systems & solving real-world problems  <br>🛠 Languages: JavaScript (main), Python (some)  <br>🌐 Interests: Web Development, Cybersecurity, Problem Solving  <br>📦 Notable Project: [OASIS@DSE](https://oasisdse.onrender.com)<br><br>🚀 Currently Exploring<br>- Penetration testing basics<br>- Frontend/backend integration<br>- Secure coding practices<br><br> “Try things. Break them. Learn faster.”  <br> — 0xPixelhunter
 
 
 # 💻 Tech Stack:

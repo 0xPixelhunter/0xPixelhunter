@@ -1,5 +1,5 @@
 # 👾 PXL.SEC
-Web Development & Cybersecurity Enthusiast  <br><br>🎓 Student | Full-stack beginner  <br>🔐 Focused on building secure systems & solving real-world problems  <br>🛠 Languages: JavaScript, Python, C++, Kotlin  <br>🌐 Interests: Web Development, Cybersecurity, Problem Solving  <br>📦 Notable Project: [OASIS@DSE](https://oasisdse.onrender.com), [StudyJer](https://github.com/0xPixelhunter/studyjer)<br><br>🚀 Currently Exploring<br>- Penetration testing basics<br>- Frontend/backend integration<br>- Secure coding practices<br><br> “Try things. Break them. Learn faster.”  <br> — 0xPixelhunter
+Web Development & Cybersecurity Enthusiast  <br><br>🎓 Student | Full-stack beginner  <br>🔐 Focused on building secure systems & solving real-world problems  <br>🛠 Languages: JavaScript, Python, C++, Kotlin  <br>🌐 Interests: Web Development, Cybersecurity, Problem Solving  <br>📦 Notable Project: [OASIS@DSE](https://oasisdse.onrender.com), [ScholarMetric DSE](https://scholarmetricdse.web.app), [SmartGains](https://smartgains.onrender.com)<br><br>🚀 Currently Exploring<br>- Penetration testing basics<br>- Frontend/backend integration<br>- Secure coding practices<br><br> “Try things. Break them. Learn faster.”  <br> — 0xPixelhunter
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=0xPixelhunter&theme=dark&hide_border=false)
